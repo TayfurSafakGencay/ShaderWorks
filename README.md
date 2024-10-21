@@ -1,4 +1,4 @@
-Click to images to watch it.
+Click on the images to watch it.
 
 1. Portal Shader
 
