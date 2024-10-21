@@ -60,7 +60,7 @@ Material:
     - _QueueControl: 1
     - _QueueOffset: 0
     - _Scale: 3.97
-    - _Speed: -11.2
+    - _Speed: 0.5
     - _TwirlStrength: 30.41
     m_Colors:
     - _Color: {r: 19.412464, g: 3.6083877, b: 76.57805, a: 1}
