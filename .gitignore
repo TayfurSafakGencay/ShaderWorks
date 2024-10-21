@@ -71,3 +71,11 @@ crashlytics-build.properties
 /[Aa]ssets/[Ss]treamingAssets/aa.meta
 /[Aa]ssets/[Ss]treamingAssets/aa/*
 Assets/Packets/
+Assets/Plugins/Demigiant/
+Assets/Shaders/Fire/RealisticSmoke01_10x9.png
+Assets/Shaders/Fire/RealisticSmoke01_10x9.png.meta
+Assets/Shaders/Fire/GradientCenter02.PNG
+Assets/Shaders/Fire/GradientCenter02.PNG.meta
+Assets/Resources/DOTweenSettings.asset
+Assets/Resources/DOTweenSettings.asset.meta
+Assets/Plugins/Demigiant.meta
